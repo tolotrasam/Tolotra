@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c7ba599ffc424580f840d5c1ec1a0514",
+    "packages": [
+        {
+            "name": "simkimsia/php-gd-simpleimage",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/simkimsia/php-gd-simpleimage.git",
+                "reference": "62742b26a6d7e0019563156b08299398541b2e99"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/simkimsia/php-gd-simpleimage/zipball/62742b26a6d7e0019563156b08299398541b2e99",
+                "reference": "62742b26a6d7e0019563156b08299398541b2e99",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kim Stacks",
+                    "email": "kim@stacktogether.com"
+                }
+            ],
+            "description": "A useful class for manipulating images using php gd.",
+            "homepage": "http://github.com/simkimsia/php-gd-simpleimage",
+            "keywords": [
+                "gd",
+                "image",
+                "php"
+            ],
+            "time": "2013-09-24 12:57:16"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "simkimsia/php-gd-simpleimage": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "ext-gd": "*"
+    },
+    "platform-dev": []
+}

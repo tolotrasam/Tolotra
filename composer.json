@@ -1,5 +1,6 @@
 {
   "require": {
-    "ext-gd": "*"
+    "ext-gd": "*",
+    "simkimsia/php-gd-simpleimage": "dev-master"
   }
 }
