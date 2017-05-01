@@ -38,9 +38,9 @@ define('DB_CHARSET', 'utf8mb4');
 define('DB_COLLATE', '');
 
 
-define('WP_HOME','https://tolotranet.herokuapp.com/');
-define('WP_SITEURL','https://tolotranet.herokuapp.com/');
-define('FORCE_SSL_ADMIN', true);
+define('WP_HOME','http://tolotranet.herokuapp.com/');
+define('WP_SITEURL','http://tolotranet.herokuapp.com/');
+//define('FORCE_SSL_ADMIN', true);
 
 /**#@+
  * Authentication Unique Keys and Salts.
