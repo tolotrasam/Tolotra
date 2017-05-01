@@ -1,0 +1,36 @@
+.form-table{
+	background-color: #fff;
+	margin: 9px;
+	width: 75%;
+}
+.form-table tr th{
+	padding: 9px;
+}
+
+h2{
+	padding: 9px;
+}
+.wp-core-ui .button-primary{
+	float: left;
+	margin:9px;
+}
+.wcia_warn_msg{
+    background: #FFFFE0;
+    border: 1px solid #E6DB55;
+    padding: 5px 5px 5px 10px;
+    text-align: left;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin: 20px 15px 5px 0;
+    width: auto;
+}
+.acf-loading {
+    background: url(../img/admin/images/wpspin_light.gif) no-repeat scroll 50% 50% #EAEAEA;
+    border-radius: 30px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5) inset;
+    height: 16px;
+    margin: 10px auto;
+    padding: 6px;
+    width: 16px;
+}
