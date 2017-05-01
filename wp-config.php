@@ -23,13 +23,13 @@
 define('DB_NAME', 'tolotra');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'bbe62db07e55a3');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', '93ad1e26');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'us-cdbr-iron-east-04.cleardb.net');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
